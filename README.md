@@ -5,7 +5,7 @@
 - npm run dev ile açınız
 - Hello World template seçerek projeyi sıfırdan oluşturdum
 - İlk etapta bir routes klasörü içine index dosyası oluşturdum. (Ana Dosya)
-- Daha sonra bir components klasörü içine dosyası oluşturdum header ve content için
+- Daha sonra bir components klasörü içine Layout dosyası oluşturdum header ve content için
 - Tailwind ile çalıştığı için Tailwind config oluşturdum
 - Prettier config oluşturdum
 - UI daki kısımlar ( form, faq vs) componentlara ayrıldı
