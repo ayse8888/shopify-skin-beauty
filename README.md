@@ -2,8 +2,8 @@
 
 - Projeyi React tabanlı olması sebebi ile Shopify Hydrogen ile kurdum
 - Hydrogen ve Shopify CLI yükledim
-- npm run dev ile açınız
-- Hello World template seçerek projeyi sıfırdan oluşturdum
+- Hello World template seçerek projeyi sıfırdan oluşturdum.
+- Shopifyda test olarak oluşturduğum mağazamı mağaza token ve url ile entegre ettim.
 - İlk etapta bir routes klasörü içine index dosyası oluşturdum. (Ana Dosya)
 - Daha sonra bir components klasörü içine Layout dosyası oluşturdum header ve content için
 - Tailwind ile çalıştığı için Tailwind config oluşturdum
@@ -12,6 +12,7 @@
 - Datalar için ayrı bir data klasörü oluşturdum
 - Email gönderimi için Email.js paketini kullandım.
 - İstenilen çalışmayı görüntülemek için widget ikonlarından @ işaretine basınız.
+- npm run dev ile açınız
 
 
 
